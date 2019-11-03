@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "catagory":"의류",
+      "name": "7번 민소매 티셔츠",
+      "price": "13000",
+      "image": "product1.png"
+    },
+    {
+      "id": 2,
+      "catagory":"의류",
+      "name": "포켓 연두 민소매 티셔츠",
+      "price": "20000",
+      "image": "product2.png"
+    },
+    {
+      "id": 3,
+      "catagory":"의류",
+      "name": "레드 민소매 티션츠",
+      "price": "13000",
+      "image": "product3.png"
+    },
+    {
+      "id": 4,
+      "catagory":"의류",
+      "name": "반팔 블라우스",
+      "price": "50000",
+      "image": "product4.png"
+    },
+    {
+      "id": 5,
+      "catagory":"의류",
+      "name": "강아지 티셔츠",
+      "price": "30000",
+      "image": "product5.png"
+    },
+    {
+      "id": 6,
+      "catagory":"의류",
+      "name": "민소매 드레스",
+      "price": "70000",
+      "image": "product6.png"
+    },    
+    {
+      "id": 7,
+      "catagory":"의류",
+      "name": "핑크 반팔티",
+      "price": "28000",
+      "image": "product7.png"
+    },
+    {
+      "id": 8,
+      "catagory":"의류",
+      "name": "꽃무늬 반팔티",
+      "price": "40000",
+      "image": "product8.png"
+    }
+  ]
